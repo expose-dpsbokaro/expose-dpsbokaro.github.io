@@ -1,6 +1,6 @@
 # the truth of dps bokaro, and its 'facilities'
 
-### the [wikipedia page](https://en.wikipedia.org/wiki/Delhi_Public_School,_Bokaro) of dps has a lot of information about the school's facilities
+### the [wikipedia page](https://en.wikipedia.org/wiki/Delhi_Public_School,_Bokaro) of dps bokaro has a lot of information about the school's facilities
 #### but are any one of them true? let's know more.
 
 ## 1. the library
