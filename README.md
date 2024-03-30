@@ -1,7 +1,7 @@
 # Exposing the Shady Tactics of DPS Bokaro (expose-dpsb)
 
 ## Introduction
-I am Kabido789, a vigilante working under the 789 cult, dedicated to exposing the unethical practices of DPS Bokaro and its principal, Dr. A.S. Gawar. This GitHub README aims to provide students, parents, and the public with a comprehensive understanding of the shady tactics employed by this institution.
+I am Kabido789, a vigilante working under the 789 cult, dedicated to exposing the unethical practices of DPS Bokaro and its principal, Dr. A.S. Gawar. This GitHub Repository is a .md dump that will soon become a website. It aims to provide students, parents, and the public with a comprehensive understanding of the shady tactics employed by this institution.
 
 ## Questionable Admission Practices
 DPS Bokaro is known to engage in dubious admission practices, favoring students from influential families or those willing to pay exorbitant fees. The admission process often lacks transparency, with allegations of nepotism and bribery. Powered by the one and only, A. S. Gangwar
