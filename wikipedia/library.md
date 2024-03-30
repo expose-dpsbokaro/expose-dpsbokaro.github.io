@@ -4,8 +4,12 @@
 #### but are any one of them true? let's know more.
 
 ## 1. the library
-![image](https://github.com/kabido789/expose-dpsb/assets/165089849/32aa6cae-4183-4839-8ff6-bfa7f8408f81)<br>
 
+#### the claim:
+![image](https://github.com/kabido789/expose-dpsb/assets/165089849/32aa6cae-4183-4839-8ff6-bfa7f8408f81)<br>
+<hr>
+
+#### the reality:
 ##### in short: The DPS Bokaro library is a poorly managed and neglected facility, with limited student access, outdated book collections, and punitive measures that exploit students and parents. The school's claims of a well-furnished library are nothing more than empty rhetoric, as the reality paints a bleak picture of an institution that prioritizes financial gain over the intellectual growth of its students.
 
 The DPS Bokaro school administration makes grandiose claims about the quality and accessibility of their library facilities, but the reality paints a far more dismal picture. Contrary to their boastful assertions, the library is woefully mismanaged, with a severe lack of relevant and up-to-date reading materials for the students.
