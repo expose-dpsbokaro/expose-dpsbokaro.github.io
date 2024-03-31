@@ -1,0 +1,199 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>expose-dpsb</title>
+    <style>
+    @import url('https://fonts.googleapis.com/css2?family=Nanum+Gothic+Coding&display=swap');
+    </style>
+    <style>
+*{font-family: "Nanum Gothic Coding", monospace;
+    font-weight: 400;
+    font-style: normal;
+    
+}
+body{
+    margin: 30px;
+}
+
+/**Seven Eight Nine Animation**/
+.sen{
+    width: 35%;
+    margin: auto;
+    text-align:center;
+    
+}
+.seven, .eight, .nine{
+        
+        text-align: center;
+        letter-spacing: 15px;
+        font-size: 67px;
+        display: inline-block;
+        animation-delay: 2s;
+        
+    }
+    .seven {
+    animation: move-right 2s ease-in-out alternate infinite; /* Animation for span 1 */
+    }
+
+    .nine {
+    animation: move-left 2s ease-in-out alternate infinite; /* Animation for span 2 */
+    }
+
+    .eight {
+    animation: fade 2s ease-in-out alternate infinite; /* Animation for span 3 */
+    }
+
+
+    @keyframes move-right {
+    from { transform: translateX(0); }
+    to { transform: translateX(200%); } /* Adjust the distance for movement */
+    }
+
+    @keyframes move-left {
+    from { transform: translateX(0); }
+    to { transform: translateX(-200%); } /* Adjust the distance for movement */
+    }
+
+    @keyframes fade {
+    from { opacity: 1; }
+    to { opacity: 0; }
+    }
+    .aa{
+        text-decoration: none;
+        color: black;
+    }
+    .sen:hover{
+        background-color: black;
+        color: white;
+    }
+
+    .sen:hover .seven{
+        background-color: black;
+        color: white;
+    }
+
+    .sen:hover .eight{
+        background-color: black;
+        color: white;
+    }
+
+    .sen:hover .nine{
+        background-color: black;
+        color: white;
+    }
+/*animation end*/
+.cmnh2{
+    text-align: center;
+    font-size: 57px;
+}
+
+.dnm{
+    background-color:forestgreen;
+    color: white;
+    font-size: 57px;
+}
+
+.divdnsm{
+    background-color: white;
+    text-align: center;
+}
+.divdnsm:hover .cmnh2{
+    background-color: forestgreen;
+    color:white;
+}
+.divdnsm:hover .dnm{
+    color: forestgreen;
+    background-color: white;
+}
+h3{
+    font-size: 22px;
+    text-align: center;
+}
+.cncls{
+    font-size: 26px;
+    font-weight: 800;
+    text-align: center;
+}
+a{
+    color:cornflowerblue;
+    font-style: none;
+    text-decoration: none;
+    font-weight:600;
+}
+.button{
+    width: 35%;
+    height: 25%;
+    text-align:center;
+    margin: auto;
+    font-size: 30px;
+    background-color: forestgreen;
+    padding: 15px;
+    border-radius: 25px;
+}
+.buttext{
+    color:white;
+}
+.button:hover{
+    border: solid forestgreen;
+    background-color: white;    
+    height:20%;
+}
+.buttext:hover{
+    color:forestgreen;
+}
+    </style>
+</head>
+<body>
+    <a class="aa" href="index.html"><div class="sen"><span class="seven">7</span> <span class="eight">8</span> <span class="nine">9</span></a></div>
+    <div class="divdnsm"><span class="cmnh2">The </span><span class="dnm">DPS Bokaro</span><span class="cmnh2" id="typewriter"></span></div>
+    
+    <hr>    
+
+    <h3>The 789, a <a href="https://en.wikipedia.org/wiki/Vigilantism">vigilante group</a> dedicated to <a href="https://en.wikipedia.org/wiki/Investigative_journalism">investigative journalism</a>,
+         is committed to shining a light on the internal discipline issues
+          and scandals occurring at <a href="https://en.wikipedia.org/wiki/Delhi_Public_School,_Bokaro">DPS Bokaro</a>, one of the most 'reputed' schools
+           in <a href="https://en.wikipedia.org/wiki/Bokaro_Steel_City">Bokaro</a>. The group firmly believes that exposing the harsh realities
+            of this institution is crucial, as it could help parents and students 
+            make informed decisions and contribute to the overall improvement of the
+             education system. The 789 group has taken it upon themselves to uncover 
+             the truth about the school's practices, which we believe is misleading
+              parents and students through <a href="https://en.wikipedia.org/wiki/False_advertising">false advertising</a>.  </h3>
+               <p class="cncls">By bringing these issues to the forefront, the group aims to empower parents and students to make more informed choices about their educational options, ultimately leading to a better educational experience for all.</p>
+
+               <a class="buttext aa" href=""><div class="button" id="button">explore</div></a>
+</body>
+            <script>
+
+            const texts = [" Reputation", " Discipline", " Scandals", " Facilities"]; // Array of your texts
+            let currentTextIndex = 0;
+            let typingSpeed = 150; // Adjust typing speed (milliseconds)
+            
+            const typewriterElement = document.getElementById("typewriter");
+            
+            function typeWriter() {
+            const currentText = texts[currentTextIndex];
+            let typedText = "";
+            
+            const interval = setInterval(() => {
+            typedText += currentText[typedText.length];
+            typewriterElement.textContent = typedText;
+            if (typedText === currentText) {
+            clearInterval(interval);
+            // Add a pause after typing (optional)
+            setTimeout(() => {
+            // Delete current text
+            typedText = " ";
+            typewriterElement.textContent = typedText;
+            // Move to next text or loop
+            currentTextIndex = (currentTextIndex + 1) % texts.length;
+            typeWriter();
+            }, 1000); // Adjust pause duration (milliseconds)
+            }
+            }, typingSpeed);
+            }
+            
+            typeWriter();
+            </script>
+            </html>
