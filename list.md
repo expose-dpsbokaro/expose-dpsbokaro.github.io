@@ -1,4 +1,4 @@
-## the site is current under construction, the better the construction, the better the destruction. <br>
+### the site is currently under construction, the better the construction, the better the destruction. <br>
 the links like discipline, scandals and events will turn blue when we have adequate informaton and sources on that matter.
 #### - The False Advertisement at [Wikipedia of DPS Bokaro](https://en.wikipedia.org/wiki/Delhi_Public_School,_Bokaro) ---> [Expose (click here)](https://expose-dpsbokaro.github.io/wikipedia/)
 #### - Discipline Issues and Events
