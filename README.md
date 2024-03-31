@@ -24,7 +24,10 @@ more equitable and ethical educational system.
 
 
 # lets change the world, one article at a time
+<br>
+with love,<br>
+kabido, xalpha, funkflare <br>
+789 coo cult clan<br>
 
-with love,
-kabido, xalpha, funkflare
-789 coo cult clan
+###### CONTACT ME FOR MORE DETAILS: KABIDO789@PROTON.ME
+###### HI AUTHORITIES, I AM UNTRACEABLE. I AM UNCATCHABLE. I AM KABIDO.
