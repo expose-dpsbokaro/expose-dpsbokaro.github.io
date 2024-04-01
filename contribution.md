@@ -14,6 +14,7 @@
 - ***any grievances, disciplinary issues/action, wrongdoings by the teacher, scams/scandals and false advertisement you wish to uncover, will be published here.***
 - goodluck, be uncatchable, be untraceable, be kabido, be you. be a part of the 789.
 
-## stronger our force, the stronger they strike, the stronger they strike, the more resilient we get.
+### stronger our force, the stronger they strike, the stronger they strike, the more resilient we get.
 ### dps bokaro is the common enemy, bringing it down is the common goal
 #### help us on a journey, to destroy evil powers. to award karma to the ones who deserve.
+##### also A.S. Gawar is a fucking piece of shit
