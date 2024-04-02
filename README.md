@@ -1,4 +1,4 @@
-# Exposing the Shady Tactics of DPS Bokaro (expose-dpsb)
+# Exposing the Shady Tactics of DPS Bokaro (expose-dpsbokaro.github.io)
 
 ## Introduction
 I am Kabido789, a vigilante working under the 789 cult, dedicated to exposing the unethical practices of DPS Bokaro and its principal, Dr. A.S. Gawar. This GitHub Repository is a .md dump that will soon become a website. It aims to provide students, parents, and the public with a comprehensive understanding of the shady tactics employed by this institution.
